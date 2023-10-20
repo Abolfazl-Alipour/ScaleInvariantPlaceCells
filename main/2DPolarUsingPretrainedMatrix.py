@@ -151,7 +151,7 @@ activityPunishmentVec=[0]
 dropOutVec=[.25]
 timeStepsToPredictVec=[1]
 
-os.chdir('/media/panlab/Thesis/DeepCodes')
+os.chdir('DIRECTORY OF YOUR CODES')
 pl.seed_everything(hash("setting random seeds") % 2**32 - 1)
 torch.cuda.empty_cache()
 
@@ -341,7 +341,7 @@ trainer.test(model,trajData)
 # Directory
 directory = "2DLearningRate"+str(learningRate)+ "CA1Size"+str(CA1Size)+"ActivityPunishment"+str(activityPunishment)+"DropOut"+str(Dropout)+"Reconstruction"+"WeightDecay"+str(weightDecay)+"1LayerCrossed"
 
-parent_dir = "/media/panlab/Thesis/DeepCodes/PlaceFieldFigs/"
+parent_dir = "DIRECTORY OF YOUR CODES/PlaceFieldFigs/"
   
 # Path
 path = os.path.join(parent_dir, directory)
