@@ -27,7 +27,7 @@ import wandb
 import plotly.graph_objects as go# ⚡ 🤝 🏋️‍♀️
 import torch.nn.utils.parametrize as parametrize
 import os
-os.chdir('/media/panlab/Thesis/DeepCodes')
+os.chdir('DIRECTORY OF YOUR CODES')
 from resultAnalyzer import *
 import gc
 import random
