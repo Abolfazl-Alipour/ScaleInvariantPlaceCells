@@ -24,7 +24,7 @@ The model was run on a PC with the following specifications:
 3. GPU: GeForce RTX 3090
 4. OS: Ubuntu 22.04.2 LTS
 
-To run the model, first download the datasets. Then, use the ParameterSweep1D1L.py in the main folder to run the main script that runs the model and logs the results on weights and biases (you need to have a weights and biases account for that). For the 2D model, use the file named 2DPolarUsingPretrainedMatrix.py. In order to utilize this script, you need a pretrained weight matrix that is obtained from the ParameterSweep1D1L.py. A sample pretrained matrix has been added to the main file for easy usage.  
+To run the model, first make sure you have all the requirement. A simple script to install all the requirements is included in main folder (InstallRequiredPackages.py). Then, download the datasets and use the ParameterSweep1D1L.py in the main folder to run the main script that runs the model and logs the results on weights and biases (you need to have a weights and biases account for that). For the 2D model, use the file named 2DPolarUsingPretrainedMatrix.py. In order to utilize this script, you need a pretrained weight matrix that is obtained from the ParameterSweep1D1L.py. A sample pretrained matrix has been added to the main file for easy usage.  
 ### Dataset
 Used datasets are kept here:
 https://drive.google.com/drive/folders/1Wa0AWuSkF3eULUVvYQ48eV9kP4teFtNp?usp=share_link
