@@ -26,7 +26,10 @@ The model was run on a PC with the following specifications:
 
 
 ### Dataset
-Used datasets are kept [here]([url](https://drive.google.com/drive/folders/1Wa0AWuSkF3eULUVvYQ48eV9kP4teFtNp?usp=share_link)). You can create your own datasets or modify the existing ones using the scripts in this repo.
+Used datasets are kept here:
+https://drive.google.com/drive/folders/1Wa0AWuSkF3eULUVvYQ48eV9kP4teFtNp?usp=share_link
+
+You can generate your own datasets or modify the existing ones using the scripts in this repo.
 
 ### Usage Conditions
 
