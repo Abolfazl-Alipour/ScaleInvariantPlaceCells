@@ -26,7 +26,7 @@ The model was run on a PC with the following specifications:
 
 
 ### Dataset
-Datasets are kept in the Datasets folder. You can find scripts required to generate the datasets in the same folder.
+Used datasets are kept [here]([url](https://drive.google.com/drive/folders/1Wa0AWuSkF3eULUVvYQ48eV9kP4teFtNp?usp=share_link)). You can create your own datasets or modify the existing ones using the scripts in this repo.
 
 ### Usage Conditions
 
